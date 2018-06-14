@@ -1,0 +1,26 @@
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\obj\Debug\ABU_NHK_TR_Throw_Parameter.csprojResolveAssemblyReference.cache
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\obj\Debug\MainWindow.g.cs
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\obj\Debug\App.g.cs
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\obj\Debug\MainWindow.baml
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\obj\Debug\ABU_NHK_TR_Throw_Parameter.Properties.Resources.resources
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\obj\Debug\ABU_NHK_TR_Throw_Parameter.csproj.GenerateResource.Cache
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\obj\Debug\ABU_NHK_TR_Throw_Parameter.csproj.CoreCompileInputs.cache
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\obj\Debug\selectSerialPort.g.cs
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\obj\Debug\selectSerialPort.baml
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\bin\Debug\LiveCharts.dll
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\bin\Debug\LiveCharts.Wpf.dll
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\bin\Debug\LiveCharts.pdb
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\bin\Debug\LiveCharts.xml
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\bin\Debug\LiveCharts.Wpf.pdb
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\bin\Debug\LiveCharts.Wpf.xml
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\obj\Debug\graph.g.cs
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\obj\Debug\graph.baml
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\obj\Debug\ABU_NHK_TR_Throw_Parameter.csproj.CopyComplete
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\bin\Debug\ABU NHK TR Throw Parameter.exe.config
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\bin\Debug\ABU NHK TR Throw Parameter.exe
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\bin\Debug\ABU NHK TR Throw Parameter.pdb
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\obj\Debug\ABU NHK TR Throw Parameter_MarkupCompile.cache
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\obj\Debug\ABU NHK TR Throw Parameter_MarkupCompile.lref
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\obj\Debug\ABU NHK TR Throw Parameter.g.resources
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\obj\Debug\ABU NHK TR Throw Parameter.exe
+C:\workspace\winapp\ABU_NHK_TR_Throw_Parameter\ABU_NHK_TR_Throw_Parameter\obj\Debug\ABU NHK TR Throw Parameter.pdb
